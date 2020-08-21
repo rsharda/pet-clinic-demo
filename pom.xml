@@ -132,7 +132,7 @@
       <optional>true</optional>
     </dependency>
 
-    <!-- Wavefront + Opentracing -->
+    <!-- Wavefront + Opentracing + RED Metrics -->
     <dependency>
       <groupId>com.wavefront</groupId>
       <artifactId>wavefront-spring-boot-starter</artifactId>
