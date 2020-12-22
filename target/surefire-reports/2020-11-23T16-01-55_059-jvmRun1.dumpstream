@@ -1,0 +1,29 @@
+# Created at 2020-11-23T17:21:32.399
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: null
+java.io.EOFException
+	at java.base/java.io.DataInputStream.readInt(DataInputStream.java:396)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:391)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+
+
+# Created at 2020-11-23T17:21:32.409
+Unexpected IOException with stream: 2020-11-23 17:21:32.408  INFO 95725 --- [extShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+
+
+# Created at 2020-11-23T17:21:32.411
+Unexpected IOException with stream: 2020-11-23 17:21:32.409  INFO 95725 --- [extShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+
+
+# Created at 2020-11-23T17:21:32.413
+Unexpected IOException with stream: 2020-11-23 17:21:32.408  INFO 95725 --- [extShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+
+
+# Created at 2020-11-23T17:21:32.416
+Unexpected IOException with stream: 2020-11-23 17:21:32.408  INFO 95725 --- [extShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+
+
+# Created at 2020-11-23T17:21:32.417
+Unexpected IOException with stream: 2020-11-23 17:21:32.410  INFO 95725 --- [extShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+
+
